@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sosoeeeeRick.github.io/sitemap.xml
