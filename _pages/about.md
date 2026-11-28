@@ -6,7 +6,7 @@ subtitle: Robotics Researcher
 
 profile:
   align: right
-  image: zjy.jpg
+  image: zjy_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
