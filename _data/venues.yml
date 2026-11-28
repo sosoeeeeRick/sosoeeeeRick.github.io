@@ -1,9 +1,24 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IROS 2026":
+  url: https://www.ieee-ras.org/
+  color: "#2B405E"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICRA 2026":
+  color: "#2B405E"
 
-"Vision":
-  color: "#009f36"
+"HRI 2026":
+  color: "#397A73"
+
+"RSS 2027":
+  color: "#86534D"
+
+"TRO":
+  color: "#2B405E"
+
+"TSMC":
+  color: "#946B36"
+
+"Under review":
+  color: "#86534D"
+
+"Preprint":
+  color: "#757575"
